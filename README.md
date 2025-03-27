@@ -5,7 +5,7 @@ The list of the missions can be find there: https://nssdc.gsfc.nasa.gov/planetar
 The high definition of the lunar surface comes from https://www.solarsystemscope.com/textures/
 
 1) This code has been written in order to visually assess how many missions to the Moon has been sent since the beginning of the lunar exploration.
-2) It also includes lines to save the video (with the details of the camera angles etc that can be tuned up by the user) 
+2) It also includes a separated part with lines to save the video (with the details of the camera angles etc that the user can tune-up) 
 
 If you have any questions/remarks, I would be happy to hear/answer them! 
 
